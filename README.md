@@ -8,7 +8,7 @@ Guanajuato, Julio de 2026.
 * **Godoy Santiago José Ángel** - *Facultad de Ciencias, UNAM*
 * **Martínez Flores Aldo Emiliano** - *Unidad Académica de Matemáticas, UAZ*
 * **Ramirez Lefranc Melani Samantha** - *Facultad de Ciencias, UNAM*
-**Tutor:** Néstor Fabián Bravo Hernández
+* **Tutor:** Néstor Fabián Bravo Hernández
 
 ## ⚙️ Estructura del Proyecto
 * `/src`: Contiene los archivos fuente `.tex` y los recursos gráficos.
