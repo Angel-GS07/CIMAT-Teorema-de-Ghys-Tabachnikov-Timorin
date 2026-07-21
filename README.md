@@ -10,6 +10,10 @@ Guanajuato, Julio de 2026.
 * **Ramirez Lefranc Melani Samantha** - *Facultad de Ciencias, UNAM*
 * **Tutor:** Néstor Fabián Bravo Hernández
 
+## 📄 Documento PDF (En #Releases)
+
+[📄 **Haz clic aquí para leer el PDF final del reporte**](https://github.com/user-attachments/files/30216072/CIMAT-Ghys_Tabachnikov_Timorin.pdf)
+
 ## ⚙️ Estructura del Proyecto
 * `/src`: Contiene los archivos fuente `.tex` y los recursos gráficos.
 * Para compilar localmente, ejecuta el archivo principal dentro de `src`.
