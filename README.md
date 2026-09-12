@@ -6,7 +6,7 @@ Guanajuato, Julio de 2026.
 
 ## 📄 Documento PDF (En #Releases)
 
-[📄 **Haz clic aquí para leer el PDF final del reporte**](https://github.com/user-attachments/files/30216072/CIMAT-Ghys_Tabachnikov_Timorin.pdf)
+[📄 **Haz clic aquí para leer el PDF final del reporte**](https://github.com/Angel-GS07/CIMAT-Teorema-de-Ghys-Tabachnikov-Timorin/releases/download/Documento_final/CIMAT-Ghys_Tabachnikov_Timorin.pdf)
 
 ## 👥 Autores
 * **José Ángel Godoy Santiago** - *Facultad de Ciencias, UNAM*
